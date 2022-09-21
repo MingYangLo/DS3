@@ -1,0 +1,23 @@
+img {
+    width: 445px;
+    height: 464px;
+    padding: 10px;
+    margin: 10px;
+    border: 10px #6274dd;
+    border-style: dashed;  
+}
+
+img:hover {
+    width: 667px;
+    height: 696px;
+    padding: 5px;
+    margin: 5px;
+    border: 10px red;
+    border-style: solid;
+}
+
+.currentPage {
+    font: bold;
+    color: white;
+    background-color: blue;
+}
